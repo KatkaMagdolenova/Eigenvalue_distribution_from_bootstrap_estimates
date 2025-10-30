@@ -1,6 +1,6 @@
 # Eigenvalue distribution from bootstrap estimates
 
-This repository contains supplementary material for the paper **"Bootstrap Methods for Matrix Models"** (to appear in *Physical Review D*).
+This repository contains supplementary material for the paper **"Eigenvalue distribution from bootstrap estimates"** (to appear in *Physical Review D*) (autors: Samuel Kováčik, Katarína Magdolenová).
 
 ## Overview
 
