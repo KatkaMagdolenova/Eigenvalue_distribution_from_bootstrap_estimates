@@ -1,4 +1,4 @@
-# Bootstrap Analysis of Matrix Models
+# Eigenvalue distribution from bootstrap estimates
 
 This repository contains supplementary material for the paper **"Bootstrap Methods for Matrix Models"** (to appear in *Physical Review D*).
 
